@@ -8,7 +8,7 @@
 # 💫 About Me:
 🔭 A 3rd year Btech Student at ICFAI University ,Dehradun<br>
 💫 all of my project are here: https://rb.gy/soc3x
-<br>🌱 I’m currently learning : Cyber Security & Data Science<br>💬 Ask me about : My Programming knowledge which is 10 :)<br>⚡ Fun fact :  all time !Funny 
+<br>🌱 I’m currently learning : Data Science<br>💬 Ask me about : My Programming knowledge which is 10 :)<br>⚡ Fun fact :  all time !Funny 
 
 
 ## 🌐 Socials:
