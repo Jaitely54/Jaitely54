@@ -7,7 +7,7 @@
 
 # 💫 About Me:
 🔭 A 3rd year Btech Student at ICFAI University ,Dehradun<br>
-💫 all of my project are here: https://rb.gy/soc3x
+💫 all of my project are here: https://github.com/Jaitely54/Projects
 <br>🌱 I’m currently learning : Data Science<br>💬 Ask me about : My Programming knowledge which is 10 :)<br>⚡ Fun fact :  all time !Funny 
 
 
