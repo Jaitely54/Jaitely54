@@ -6,9 +6,14 @@
 
 
 # 💫 About Me:
-🔭 A 3rd year Btech Student at ICFAI University ,Dehradun<br>
-💫 all of my project are here: https://github.com/Jaitely54/Projects
-<br>🌱 I’m currently learning : Data Science<br>💬 Ask me about : My Programming knowledge which is 10 :)<br>⚡ Fun fact :  all time !Funny 
+🚀 Greetings from the coding cosmos! <br>
+🌌I'm Jaitely, a space explorer navigating the vast universe of bits and bytes at ICFAI University, Dehradun. 🎓<br>
+✨ Venture into the galaxy of my projects at [Projects](https://github.com/Jaitely54/Projects)
+ and witness the constellations of my coding endeavors. 🌠<br>
+
+🌱 Currently orbiting around the planet of Data Science,<br>
+I'm soaking up knowledge like a solar panel in sunlight. <br>
+💡 Feel free to launch questions my way, especially if they involve unraveling the mysteries of my perfect 10 in programming wizardry! 💻🔮
 
 
 ## 🌐 Socials:
