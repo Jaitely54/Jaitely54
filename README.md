@@ -12,8 +12,7 @@
  and witness the constellations of my coding endeavors. 🌠<br>
 
 🌱 Currently orbiting around the planet of Data Science,<br>
-I'm soaking up knowledge like a solar panel in sunlight. <br>
-💡 Feel free to launch questions my way, especially if they involve unraveling the mysteries of my perfect 10 in programming wizardry! 💻🔮
+I'm soaking up knowledge like a solar panel in sunlight
 
 
 ## 🌐 Socials:
